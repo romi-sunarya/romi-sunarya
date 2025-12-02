@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Romi a Cobol Developer and Core Banking Developer
+
+Has 3 years experience as an IT Life Asia Developer and 2 years as a Core Banking Developer.
+Experienced in handling projects in financial services industry and banking industry. 
+Familiar to prepare documentation for promotion, create new schedule, Designing screen on AS400 and create new item in table. 
+have knowledge in COBOL AS400, Unix, Bash, Shell script, Java script, Java.
+
+if you want to check portfolio, my portfolio 
+
 <!--
 **romi-sunarya/romi-sunarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
